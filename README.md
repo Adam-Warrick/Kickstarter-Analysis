@@ -16,7 +16,7 @@ I have performed my analysis in Excel using a variety of Tables, charts, formula
 
 - Based on my analysis of launch dates it has been determined that the best time to launch is May to July which are higher then all other months. The worst time to launch is November and December. The Successful data line follows a similar trend to the failure line, but at a higher level. 
 
-- The analysis concludes that the most successful goals were under $5,000. 100% of the goals failed from $45,000-$49,000.
+- The outcomes based on goal concludes that the most successful goals were under $5,000. 100% of the goals failed from $45,000-$49,000. The next best successful goal outcome is from $35,000 to $44,999. Goals from $10,000 to $34,999 saw the most amount of fails. 
 
 - Current limitations to this data set is that the data only goes to 2017. We don't have any new data to support our analysis. Having current data would help support our decisions within a more relative timeframe. 
 
